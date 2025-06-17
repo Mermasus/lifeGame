@@ -5,5 +5,5 @@
 # While allowing me to understand user input, and data management
 
 # Built with: Python, Sublime Text
-# Features:
-# Directions: 
+# Features: Scrapes data from web pages
+# Directions: C+P into Sublime Text or similar platform, Open PowerShell, type "python lifeGame.py" to being playing
